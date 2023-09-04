@@ -1,0 +1,31 @@
+﻿Título,Autor,Género,ISBN,Ubicación,Estado,Reservas
+La Odisea,Homero,Epopeya,12345678,A1,Disponible,
+Don Quijote,Cervantes,Novela,87654321,B2,Prestado,Estudiante2
+Hamlet,Shakespeare,Drama,11223344,A3,Reservado,Estudiante3,Estudiante4
+Moby Dick,Melville,Novela,55667788,A2,Disponible,
+Orgullo y Prejuicio,Austen,Romance,22334455,A5,Prestado,Estudiante5
+1984,Orwell,Distopía,99887766,A3,Disponible,
+Cien años de soledad,García Márquez,Realismo mágico,88776655,A1,Prestado,Estudiante6
+El principito,Saint-Exupéry,Fábula,77665544,B2,Disponible,
+Fahrenheit 451,Bradbury,Distopía,66554433,B3,Reservado,Estudiante7,Estudiante8
+La metamorfosis,Kafka,Novela,55443322,B3,Disponible,
+Dune,Herbert,Ciencia ficción,44332211,B1,Prestado,Estudiante9
+Un mundo feliz,Huxley,Distopía,33221100,B1,Disponible,
+La Divina Comedia,Dante,Poesía,11223399,A1,Reservado,Estudiante10,Estudiante11
+Los Miserables,Hugo,Novela histórica,22334488,B2,Disponible,
+Guerra y Paz,Tolstoy,Novela histórica,33445577,B1,Prestado,Estudiante12
+Ulises,Joyce,Novela modernista,44556666,A1,Disponible,
+Madame Bovary,Flaubert,Novela,55667744,A2,Reservado,Estudiante13,Estudiante14
+Crimen y Castigo,Dostoievski,Novela,66778833,C1,Disponible,
+Anna Karenina,Tolstoy,Novela,77889922,C1,Prestado,Estudiante15
+En busca del tiempo perdido,Proust,Novela modernista,88990011,C2,Disponible,
+Las uvas de la ira,Steinbeck,Novela,99001122,B2,Reservado,Estudiante16,Estudiante17
+Lolita,Nabokov,Novela,10011223,A1,Disponible,
+Drácula,Stoker,Terror,21022334,A3,Prestado,Estudiante18
+Frankenstein,Shelley,Terror,32033445,A2,Disponible,
+Los Pilares de la Tierra,Follett,Novela histórica,43044556,B5,Reservado,Estudiante19,Estudiante20
+El amor en los tiempos del cólera,García Márquez,Novela,54055667,A2,Disponible,
+Las aventuras de Sherlock Holmes,Doyle,Misterio,65066778,B1,Prestado,Estudiante21
+El Hobbit,Tolkien,Fantasía,76077889,B2,Disponible,
+El Señor de los Anillos,Tolkien,Fantasía,87088990,C2,Reservado,Estudiante22,Estudiante23
+
