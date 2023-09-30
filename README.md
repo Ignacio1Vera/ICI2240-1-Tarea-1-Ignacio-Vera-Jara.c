@@ -9,12 +9,13 @@ Seleccione el lenguaje (C) Una vez importado, escriba gcc *.c -o main para confi
 
 ## Analisis
 
+El código es un programa de gestión de puntos de interés turístico y turistas. Utiliza estructuras de datos, como arrays para almacenar puntos de interés y turistas, y una tabla hash para buscar puntos de interés por nombre. El programa ofrece una variedad de funcionalidades, como registrar y mostrar información de puntos de interés y turistas, agregar lugares favoritos a turistas, mostrar todos los turistas y puntos de interés de un tipo específico, y realizar operaciones de importación y exportación desde/hacia archivos CSV.
 
-El código proporcionado es un programa de gestión de una biblioteca que utiliza estructuras de datos en C, incluyendo una lista enlazada de libros y una lista enlazada de reservas asociadas a los libros. El programa permite al usuario realizar diversas acciones, como registrar libros, mostrar detalles de un libro por título y autor, reservar y cancelar reservas de libros, retirar y devolver libros, y exportar/importar datos de libros desde y hacia archivos CSV.
 
 ## Problemas conocidos
 
-Hay un problema en replit que hace que cada vez que muestra los alumnos que reservaron un libro el Código para de ejecutarse, pero a pesar de eso los datos se guardan correctamente y solo ocurre en la impresión de los datos, esto puede ser por una mala implementación de la lista de estudiantes, pero no pude solucionar el error.
+Hay un problema en replit que crea un � al principio de el lugar favorito de los turistas.
+Hay un problema al Importar el archivo de ejemplo.
 
 
 
